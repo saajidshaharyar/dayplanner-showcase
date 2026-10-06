@@ -166,7 +166,7 @@ The backend has about 50 Cloud Functions: 20 callable endpoints, 11 scheduled jo
 
 ## How it was built
 
-This was a solo project built with an **AI-assisted workflow**. In practice:
+This was built by a two-person team built with an **AI-assisted workflow**. In practice:
 
 - I used AI coding agents (Claude Code and OpenAI Codex) to draft features, refactors, and Cloud Functions. I set the requirements, reviewed the output, tested on device, and decided what shipped.
 - The repo has project-level instruction files for the agents: a coding-conventions guide, a security policy with a threat model, and reusable checklists for pre-push verification, security review, and new UI components. Larger features, like Groups, started from a written spec that the agent worked from.
@@ -197,11 +197,15 @@ The most valuable part of this workflow wasn't generating code faster. It was ha
 
 **Creating a mission:** auto-suggested category, deadline, and location
 
-<!-- VIDEO: drag 02-add-mission.mp4 here -->
+
+https://github.com/user-attachments/assets/eb833946-fe72-41b1-a6e6-0bf0ad267b02
+
 
 **Browsing a profile:** level, XP, skill progress by category, and awards
 
-<!-- VIDEO: drag 08-profile.mp4 here -->
+
+https://github.com/user-attachments/assets/21952bcd-54b6-4102-b46b-1f87f4e5cdd5
+
 
 ### Leaderboards
 
@@ -222,15 +226,16 @@ The most valuable part of this workflow wasn't generating code faster. It was ha
 
 **1v1 challenge walkthrough**
 
-<!-- VIDEO: drag 07-h2h.mp4 here -->
+
+https://github.com/user-attachments/assets/5bd0661a-a3be-4ba2-885f-ef41c7939e05
+
 
 ### Notes
 
 **Notes:** pinned notes, folders, search, and links to missions
 
-<!-- VIDEO: drag 09-notes.mp4 here -->
 
-<!-- HOW TO ADD EACH VIDEO: on github.com, open README.md and click the pencil icon. For each "VIDEO: drag ... here" comment, delete the comment line and drag that .mp4 onto the empty line. GitHub uploads it and inserts a link that renders as a player. Keep a blank line above and below each link. Then delete this note and commit. -->
+https://github.com/user-attachments/assets/8c4c7d2e-0004-44b8-bc9a-d54ab2a45c63
 
 
 ---
